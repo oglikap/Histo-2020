@@ -3,3 +3,7 @@ Theme Name: Histo-tainment thema
 Author: Rutger Kroon
 Version: 1.0
 */
+
+body {
+  color: green;
+}
